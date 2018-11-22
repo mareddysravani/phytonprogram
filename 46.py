@@ -1,3 +1,3 @@
-n= int(raw_input())
-n=n+1
-print n
+r= int(raw_input())
+r=r+1
+print r
