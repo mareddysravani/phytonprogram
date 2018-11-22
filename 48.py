@@ -1,4 +1,4 @@
-n=int(raw_input())
+r=int(raw_input())
 list=[int(x) for x in raw_input().split()] 
-middle=sum(list)//n
+middle=sum(list)//r
 print middle
