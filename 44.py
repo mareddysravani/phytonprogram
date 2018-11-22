@@ -1,5 +1,5 @@
-n=int(raw_input()) 
-if n in range(1,10): 
+s=int(raw_input()) 
+if s in range(1,10): 
     print "yes"
 else: 
     print "no"
