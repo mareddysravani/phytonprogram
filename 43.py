@@ -1,2 +1,2 @@
-m,n=map(str,raw_input().split())
-print (m+n)
+p,r=map(str,raw_input().split())
+print (p+r)
