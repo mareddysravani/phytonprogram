@@ -1,6 +1,6 @@
-x=raw_input()
-k=str(x)
+r=raw_input()
+s=str(r)
 sum=0
-for n in range(0,len(k)):
-    sum=sum+int(k[n])
+for n in range(0,len(s)):
+    sum=sum+int(s[n])
 print sum
