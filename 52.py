@@ -1,3 +1,3 @@
-a=int(raw_input())
-x=['One','Two','Three','Four','Five','Six','Seven','Eight','Nine','Ten']
-print (x[a-1])
+s=int(raw_input())
+r=['One','Two','Three','Four','Five','Six','Seven','Eight','Nine','Ten']
+print (r[s-1])
