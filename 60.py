@@ -1,7 +1,7 @@
-z=int(raw_input())
+s=int(raw_input())
 sum =0
-while z>0:
-    sum=sum+z
-    z=z-1
+while s>0:
+    sum=sum+s
+    s=s-1
 print sum   
 ©
