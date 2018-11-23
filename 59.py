@@ -1,6 +1,6 @@
-z=int(raw_input())
+r=int(raw_input())
 count=0
-while z>0:
+while r>0:
     count=count+1
-    z=z//10
+    r=r//10
 print count    
