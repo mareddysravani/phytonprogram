@@ -1,10 +1,10 @@
-z,k=map(int,raw_input().split())
+r,s=map(int,raw_input().split())
 list=[int(i) for i in raw_input().split()]
-if z in list:
-    count=list.count(z)
+if r in list:
+    count=list.count(r)
     print count
-elif k in list:
-    count=list.count(k)
+elif s in list:
+    count=list.count(s)
     print count
 else:
     print (0)
