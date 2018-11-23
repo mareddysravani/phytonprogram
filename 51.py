@@ -1,4 +1,4 @@
-g=int(raw_input())
-a=str(g)
-for x in range(0,len(a)):
-    print a[x],
+r=int(raw_input())
+s=str(r)
+for x in range(0,len(s)):
+    print s[x],
