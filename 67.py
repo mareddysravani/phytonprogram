@@ -1,7 +1,7 @@
-x=int(raw_input())
-y=x+1
-while(y!=0):
-    if y%10==0:
-        print y
+s=int(raw_input())
+r=s+1
+while(r!=0):
+    if r%10==0:
+        print r
         break
-    y=y+1
+    r=r+1
