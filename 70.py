@@ -1,2 +1,2 @@
-s =int(raw_input())
-print (s * 2)
+k =int(raw_input())
+print (k * 2)
