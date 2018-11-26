@@ -1,7 +1,7 @@
-num=float(input(""))
-if num>0:
-  print("Positive")
-elif num<0:
-  print("Negative")
+number=float(input(""))
+if number>0:
+  print "Positive"
+elif number<0:
+  print "Negative"
 else:
-  print("Zero")
+  print "Zero"
