@@ -1,6 +1,6 @@
 year = int(raw_input())
  
 if(year%4==0 and (year%100!=0 or year%400==0)):
-    print("yes")
+    print "yes"
 else:
-    print("no")
+    print "no"
