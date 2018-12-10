@@ -1,6 +1,6 @@
-a,b=map(int,raw_input().split())
-a1,b1=map(int,raw_input().split())
-a2,b2=map(int,raw_input().split())
-print b-a
-print b1-a1
-print b2-a2
+r,s=map(int,raw_input().split())
+r1,s1=map(int,raw_input().split())
+r2,s2=map(int,raw_input().split())
+print s-r
+print s1-r1
+print s2-r2
