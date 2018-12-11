@@ -3,18 +3,18 @@
 int main(void)
 {
 char a[10];
-int i,l,count=0;
+int s,l,count=0;
 scanf("%s",a);
 l=strlen(a);
-for(i=0;i<l;i++)
+for(s=0;s<l;s++)
 	{
-if(a[i]=='1'||a[i]=='2'||a[i]=='3'||a[i]=='4'||a[i]=='5'||a[i]=='6'||a[i]=='7'||a[i]=='8'||a[i]=='9'||a[i]=='0')
+if(a[s]=='1'||a[s]=='2'||a[s]=='3'||a[s]=='4'||a[s]=='5'||a[s]=='6'||a[s]=='7'||a[s]=='8'||a[s]=='9'||a[s]=='0')
 {
 	count++;
    }
 	if(count==0)
-	printf("no");
+	printf "no";
 	else
-	printf("yes");
+	printf "yes";
 	return 0;
 }
