@@ -1,4 +1,4 @@
 n=int(raw_input())
-a=n/60
-b=n%60
-print a,b
+r=n/60
+s=n%60
+print r,s
