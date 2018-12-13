@@ -1,5 +1,5 @@
-m=int(raw_input())
-if m%13==0:
-    print "yes"
+n=int(raw_input())
+if n%13==0:
+    print ("yes")
 else:
-    print "no"
+    print ("no")
