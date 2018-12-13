@@ -1,6 +1,6 @@
 str2=raw_input()
 rev_str2=reversed(str2)
 if list(str2)==list(rev_str2):
-    print "yes"
+    print ("yes")
 else:
-    print "no"
+    print 9"no")
