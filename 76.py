@@ -1,10 +1,10 @@
-m=int(raw_input())
+r=int(raw_input())
 count=0
-if m>1:
-    for i in range(2,m):
-        if m%i==0:
+if r>1:
+    for i in range(2,r):
+        if r%i==0:
             count=count+1
 if count>1:
-    print "yes"
+    print ("yes")
 else:
-    print "no"
+    print ("no")
