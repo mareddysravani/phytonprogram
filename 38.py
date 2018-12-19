@@ -1,5 +1,5 @@
-n,m=map(int,raw_input().split())
-n=n^m
-m=n^m
-n=n^m
-print n,m
+r,s=map(int,raw_input().split())
+r=r^s
+r=r^s
+r=r^s
+print r,s
